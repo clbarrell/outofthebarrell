@@ -1,0 +1,30 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Out Of The Barrell"
+theme = "minimal-barrel"
+sectionPagesMenu = 'main'
+enableEmoji = true
+summaryLength = 10
+author = "Chris Barrell"
+footnoteReturnLinkContents = "↩"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About me"
+    title = "About"
+    url = "/about"
+    weight = -10
+
+[params]
+
+  subtitle = "A site about me"
+  summaryLength = 70
+  twitterHandle = "chris_barrell"
+  linkedin = "chrisbarrell"
+  author = "Chris Barrell"
+
+[related]
+
+  includeNewer = true

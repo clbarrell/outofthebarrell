@@ -1,0 +1,34 @@
+{{ define "main" }}
+    <h1 class="title is-1">{{ if eq .Type "tags" }}#{{end}}{{ .Name }}</h1>
+    {{ if .Content }}{{ .Content }}{{ end }}
+    <div class="columns">
+        <div class="column">
+                <ul class="has-text-grey post-list">
+                        {{ range .Pages }}
+                                <li>
+                                    <a href="{{ .Permalink }}" class="has-text-weight-bold has-text-grey-dark is-size-4">{{ .Title }}</a>
+                                    {{ if .Params.Subtitle }}
+                                        <span class="list-subtitle is-block">{{ .Params.Subtitle }}  <small class="has-text-grey-light has-sml-left-margin">{{ .ReadingTime }} mins</small></span>
+                                    {{ else }}
+                                        <small class="has-text-grey-light is-block">{{ .ReadingTime }} mins</small>
+                                    {{ end }}
+                                </li>
+                        {{ end }}
+                    </ul>
+        </div>
+        <div class="column has-text-right-tablet is-narrow">
+                {{ if not (eq .Section "tags") }}
+                <ul class="tag-list is-size-small">
+                    {{ $t := .Site.GetPage "/tags" }}
+                    {{ range first 10 $t.Data.Terms.ByCount }}
+                        {{ with $.Site.GetPage (printf "/%s/%s" "tags" .Name) -}}
+                            <li><a href="{{ .Permalink }}" class="has-text-grey-light">#{{ humanize .Name }}</a></li>
+                        {{- end -}}
+                    {{- end -}}
+                </ul>
+            {{ end }}
+        </div>
+    </div>
+    
+    
+{{ end }}

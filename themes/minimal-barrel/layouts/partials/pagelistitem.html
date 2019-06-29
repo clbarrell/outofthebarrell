@@ -1,0 +1,8 @@
+<li>
+    <a href="{{ .Permalink }}" class="has-text-weight-bold has-text-grey-dark is-size-4">{{ .Title }}</a>
+    {{ if .Params.Subtitle }}
+        <span class="list-subtitle is-block">{{ .Params.Subtitle }}  <small class="has-text-grey-light has-sml-left-margin">{{ .ReadingTime }} mins</small></span>
+    {{ else }}
+        <small class="has-text-grey-light is-block">{{ .ReadingTime }} mins</small>
+    {{ end }}
+</li>

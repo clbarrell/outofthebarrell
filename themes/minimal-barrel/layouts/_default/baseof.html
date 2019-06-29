@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}} 
+    <body class="body">
+        <div class="container">
+            <div class="columns">
+                <div class="column is-3">
+                    {{- partial "sidebarnav.html" . -}}
+                </div>
+                <div class="column">
+                    <div id="content" class="">
+                        {{- block "main" . }}{{- end }}
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{- partial "footer.html" . -}}
+    </body>
+
+</html>

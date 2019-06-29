@@ -1,0 +1,15 @@
+<nav class="sidebar-nav">
+    <p class="title is-5 no-link-border"><a href="/">{{ .Site.Title }}</a></p>
+    {{ if .Site.Params.Subtitle }}
+      <p class="subtitle is-6 has-text-grey">{{.Site.Params.Subtitle}}</p>
+    {{ end }}
+    <img src="/OOTB-icon.png" class="has-bottom-margin-sml" title="Out of the barrell">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+    <p><a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></p>
+    {{ end }}
+    <div class="no-link-border has-text-grey space-above is-size-small">
+      {{ if .Site.Params.TwitterHandle }}<p><a href="http://www.twitter.com/{{.Site.Params.TwitterHandle}}" class="twitter" target="blank"><i class="fab fa-twitter"></i></a></p>{{end}}
+      {{ if .Site.Params.Linkedin }}<p><a href="https://www.linkedin.com/in/{{.Site.Params.Linkedin}}" class="linkedin" target="blank"><i class="fab fa-linkedin-in"></i></a></p>{{end}}
+    </div>
+</nav>
