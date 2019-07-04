@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.outofthebarrell.com/"
 languageCode = "en-us"
 title = "Out Of The Barrell"
 theme = "minimal-barrel"
@@ -12,7 +12,7 @@ footnoteReturnLinkContents = "↩"
 
   [[menu.main]]
     identifier = "about"
-    name = "About me"
+    name = "About Chris"
     title = "About"
     url = "/about"
     weight = -10
