@@ -8,7 +8,7 @@
 {{ if .Params.Subtitle }}
 <h2 class="subtitle is-3 has-text-grey-light has-text-weight-normal">{{ .Params.Subtitle }}</h2>
 {{ end }}{{ $tags := apply .Params.tags "printf" "#%s" "." }}
-<p class="is-uppercase has-text-grey has-bottom-margin is-size-small has-letter-spacing has-text-weight-light">{{ .PublishDate.Format "January 2006" }}  ・ {{ .ReadingTime }} mins{{if $tags }}  ・  {{ delimit $tags "  " }}{{end}}</p>
+<p class="is-uppercase has-text-grey-light has-bottom-margin is-size-small has-letter-spacing has-text-weight-light">{{ .PublishDate.Format "January 2006" }}  ・ {{ .ReadingTime }} mins{{if $tags }}  ・  {{ delimit $tags "  " }}{{end}}</p>
 <div class="content">
   {{ .Content }}
 </div>
