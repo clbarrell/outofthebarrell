@@ -1,8 +1,6 @@
 
 // $family-sans-serif: 'Lato', sans-serif;
-$family-sans-serif: 'Merriweather', sans-serif;
-
-$family-secondary: 'Source Serif Pro', serif;
+$family-sans-serif: 'Literata', sans-serif;
 $hr-margin: 3rem 0 !default;
 $size-small:	0.7rem;
 $body-font-size: 1.15rem;
@@ -11,12 +9,6 @@ $primary: hsla(219, 80%, 70%, 1);
 $content-blockquote-background-color:  hsla(219, 80%, 97%, 1);
 $content-blockquote-border-left: 5px solid $primary !default;
 
-// $size-1: 4.209rem !default;
-// $size-2: 3.157rem !default;
-// $size-3: 2.369rem !default;
-// $size-4: 1.77rem !default;
-// $size-5: 1.33rem !default;
-// $size-6: 1rem !default;
 $size-7: .8rem !default;
 
 @import "bulma.sass";
