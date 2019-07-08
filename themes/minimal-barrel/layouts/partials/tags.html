@@ -1,7 +1,7 @@
 {{ $taxonomy := "tags" }}
 {{ with .Param $taxonomy }}
 {{ if gt (len .) 0 }} <p class="title">Tags</p> {{end}}
-  <div class="tags are-medium has-bottom-margin">
+  <div class="tags are-medium has-bottom-margin no-link-border">
     {{ range $index, $tag := . }}
       {{ with $.Site.GetPage (printf "/%s/%s" $taxonomy $tag) -}}
           <a href="{{ .Permalink }}" class="tag is-rounded">#{{ humanize $tag }}</a>

@@ -18,7 +18,7 @@
         </div>
         <div class="column has-text-right-tablet is-narrow">
                 {{ if not (eq .Section "tags") }}
-                <ul class="tag-list is-size-small">
+                <ul class="tag-list is-size-small no-link-border">
                     {{ $t := .Site.GetPage "/tags" }}
                     {{ range first 10 $t.Data.Terms.ByCount }}
                         {{ with $.Site.GetPage (printf "/%s/%s" "tags" .Name) -}}
