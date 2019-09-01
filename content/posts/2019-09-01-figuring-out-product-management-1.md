@@ -55,7 +55,7 @@ I think this is what makes me unique as a PM. I've worked with our customers dir
 The sketch below shows how at different times, a customer may spend more time just in the product or more time interacting with customer-facing people (sales, customer success, people science, account management..). The one aspect I don't have as much experience with is the top half of the marketing funnel\[^2].
 \[^2]: But this may change with a project I'm working on. Where we've made a sales tool and rolling it out initially with sales dev reps.
 
-\[[ insert diagram of systems and non-software side of Culture Amp? ]]
+![Customers' experience over time - sometimes product heavy, sometimes people heavy](/images/uploads/customers-experience.png)
 
 Even in PM circles, I've been seeing increased focus on psychology related skillsets such as used by the term  'Behavioural product manager'. It embodies everything that PM is trying to borrow from psychology.  [Behavioural product management](https://medium.com/@IrrationalLabs/move-over-product-manager-introducing-the-behavioral-product-manager-3b2f8fae6dd) raises the bar of what a PM is expected do know and do. Read: apply a more scientific and research mindset (nothing crazy).
 
