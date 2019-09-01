@@ -4,7 +4,7 @@ date: 2019-09-01T02:36:26.341Z
 tags:
   - writing
 draft: false
-subtitle: 'Great at editing posts, just shipping'
+subtitle: 'Great at editing posts, just not shipping'
 ---
 I think I've uncovered the weak link in my desire to publish more of my own writing.
 
@@ -24,7 +24,7 @@ Having opinions isn't a new thing for me, that can't be scary. But maybe it is a
 
 I have opinions at work and share them freely in that context. I also make sure that they're considered and thoughtful. Maybe I don't feel I've done that with my personal writing?
 
-# What's going on?
+## What's going on?
 
 I don't follow through to shipping an article because something holds me back. 
 
@@ -32,7 +32,7 @@ The symptom is the constant rewriting and never ending editing.
 
 The cause may be a combination of not feeling confident with the opinions stated, and (related) fear that what I've said is wrong.
 
-# What can I try?
+## What can I try?
 
 Next time I write a post, my goal will be to smoothly go through the editing stages without any significant (week+) delay going from a complete initial write to publishing.
 
@@ -44,10 +44,10 @@ To do this, I will;
 
 This is something that's been with me a long time. I've always wanted and intended to write more, but it's never materialised into actual posts. Just notes and sketches. I hope I'm somewhat right with what I'm guessing here, so that I can actually make a change.
 
-No more of this :fingers-crossed:
+No more of this 🤞
 
 ![hiding](https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif)
 
-And more of this
+And more of this 🙏
 
 ![ship it](https://media.giphy.com/media/Hw8vYF4DNRCKY/giphy.gif)
