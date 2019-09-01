@@ -6,11 +6,11 @@ tags:
 draft: false
 subtitle: What do I even do as a PM?
 ---
-Even though I'd worked with our product managers (PMs) in the past. The exact activities and day to day were this big black box that I had to figure out. That journey's been a wild ride. But I wouldn't take it back for a second. I'm sure I'll still be figuring out product management (PM) in 5+ years' time. But I'm sharing the start of my PM journey here for posterity's sake - as well as my own. Parsing this experience has been hugely beneficial.
+Even though I've worked with our product managers (PMs) in the past, exactly what they do was black box to me. I had to figure it all out as I went. That journey's been a wild ride and I wouldn't take it back for a second. Luckily I've had some great people to rely on. I'm sure I'll still be figuring out product management (PM) in 5+ years' time but I'm sharing the start of my PM journey here for posterity's sake. Parsing this experience has been hugely beneficial to myself and if you're thinking or doing PM then may it give you an insight into a different perspective.
 
 ### TLDR
 
-Product management is great. I like it. It's really broad and PMs do some really cool, different things. But I'm well armed with my experience at Culture Amp so far from my non-PM roles. I'm lucky that just in time learning works for the work in doing. Which is conveniently following the product lifecycle by creating a product from scratch. Go to end for my [PM resource list]("#best-resources-so-far") that I've found useful so far.
+> Product management is great. I like it. It's really broad and PMs do some really cool, different things. But I'm well armed with my experience at Culture Amp so far from my non-PM roles. I'm lucky that just in time learning is effective for the work in doing. Which is conveniently following the product lifecycle by creating a product from scratch. Go to end for my  that I've found useful so far.
 
 ## PM is the bomb
 
@@ -28,7 +28,7 @@ Customer Success is a pretty foreign concept in Australia, but it was one of the
 
 As a People Scientist I acted as a non-consultant advisor to customers, ensuring they had and knew everything they needed to successfully work on improving their culture. This involved training, workshops, a bit of marketing events and some pre-sales. Basically abstracting myself one step away from the main relationship holder as well as one step away from the product. For this role, knowing the market we play in became really important and valuable.
 
-From these I learnt the following skills which I've found to 100% be transferrable
+From these I've learnt these skills and knowledge I've found to 100% be transferrable to PM
 
 * How to juggle fires with deliberate work
 * What customers want, need, hate and are willing to buy
@@ -62,16 +62,16 @@ Even in PM circles, I've been seeing increased focus on psychology related skill
 
 ## Types of PMs
 
-A big realisation when in PM is the variation of the work we do. Even at Culture Amp. I started trying to work out what kinds of behaviours, systems and processes I should be copying to get quickly up to speed. Unfortunately all I found out is that everyone does it differently and everyone has a different focus.
+A big realisation when in PM is the variation of the work we do. Even at Culture Amp. I started trying to work out what kinds of behaviours, systems and processes I should be copying to get quickly up to speed. Unfortunately all I found out is that everyone does it differently and with a different focus.
 
-There are PMs that only play in the discovery, research, and validation playgrounds. While others spend most of their time managing the delivery of work. Throw in the consideration of the product lifecycle and you can see how a PM with a brand new product will have a different week compared to a PM with a stable, mature product.
+There are PMs that only play in the discovery, research, and validation playgrounds. While others spend most of their time managing the delivery of work with a deep backlog. Throw in the consideration of the product lifecycle and you can see how a PM with a brand new product will have a different week compared to a PM with a more mature or complex product.
 
 PMs also come from very different backgrounds and often end up relying on their unique skills, which shapes the work they do. For example, an ex-designer does more hands-on designs and iterations themselves. Whilst I plan more of my own research and use more of my domain expertise to make faster decisions or prioritise certain approaches.
 
 ## Just in time learning
 
 PM is a huge field  and as above each PM can do a vastly different activities. Because of this, it's a daunting prospect to try to learn PM. That's exactly what I thought I had to do when I first joined product as a slashie (PM / People Science)[^3].
-[^3]: 'Slashie' is now an established term at Culture Amp
+[^3]: 'Slashie' is now an established term at Culture Amp for a PM that is half-PM and half something else.
 I first joined some webinars and did an online course but I experienced the same learning lacklustre I've experienced my whole life. 90% of the content just isn't immediately relevant or applicable to me right now. They would cover the product lifecycle for example, going into techniques to employ at each stage. But let's be real. 
 
 No one is actually working on a product that's simultaneously at all four stages! So unless you're preparing for an exam, what's the point of going deep on all simultaneously?
