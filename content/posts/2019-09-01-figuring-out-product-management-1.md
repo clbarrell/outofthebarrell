@@ -33,14 +33,15 @@ From these I learnt the following skills which I've found to 100% be transferrab
 * How to juggle fires with deliberate work
 * What customers want, need, hate and are willing to buy
 * How to write great emails (incl. supporting, advising and establishing contact)
-* How to sell\[^1]
+* How to sell[^1]
 * How to run effective meetings
 * How to influence the happy people and the sad people
 * How to hear people and have tough conversations
 * The importance of managing and optimising for customers' experience
 * The importance of upskilling customers and making them heroes - using education and talking points
 * How to be effective at Culture Amp (big one)
-  \[^1]: I've learnt a lot about selling for sure - but by no means do I measure up to dedicated sales folk. As a People Scientist I was often involved in the fun parts of the sale towards closing. I also never had to do admin or follow up 😃
+
+[^1]: I've learnt a lot about selling for sure - but by no means do I measure up to dedicated sales folk. As a People Scientist I was often involved in the fun parts of the sale towards closing. I also never had to do admin or follow up 😃
 
 ## Coming from psychology
 
@@ -52,8 +53,8 @@ Organisational Psychology reorientates a lot of learnings and principles from in
 
 I think this is what makes me unique as a PM. I've worked with our customers directly for multiple years, giving me a thorough awareness of what our customer loves, hates and dreams for. Plus I also understand the psychology of organisations and organisational development. Now that I'm combining my customer experience with product experience I think I'm creating a more wholistic awareness and understanding of our business - and how to improve our product. 
 
-The sketch below shows how at different times, a customer may spend more time just in the product or more time interacting with customer-facing people (sales, customer success, people science, account management..). The one aspect I don't have as much experience with is the top half of the marketing funnel\[^2].
-\[^2]: But this may change with a project I'm working on. Where we've made a sales tool and rolling it out initially with sales dev reps.
+The sketch below shows how at different times, a customer may spend more time just in the product or more time interacting with customer-facing people (sales, customer success, people science, account management..). The one aspect I don't have as much experience with is the top half of the marketing funnel[^2].
+[^2]: But this may change with a project I'm working on. Where we've made a sales tool and rolling it out initially with sales dev reps.
 
 ![Customers' experience over time - sometimes product heavy, sometimes people heavy](/images/uploads/customers-experience.png)
 
@@ -69,8 +70,8 @@ PMs also come from very different backgrounds and often end up relying on their 
 
 ## Just in time learning
 
-PM is a huge field  and as above each PM can do a vastly different activities. Because of this, it's a daunting prospect to try to learn PM. That's exactly what I thought I had to do when I first joined product as a slashie (PM / People Science)\[^3].
-\[^3]: 'Slashie' is now an established term at Culture Amp
+PM is a huge field  and as above each PM can do a vastly different activities. Because of this, it's a daunting prospect to try to learn PM. That's exactly what I thought I had to do when I first joined product as a slashie (PM / People Science)[^3].
+[^3]: 'Slashie' is now an established term at Culture Amp
 I first joined some webinars and did an online course but I experienced the same learning lacklustre I've experienced my whole life. 90% of the content just isn't immediately relevant or applicable to me right now. They would cover the product lifecycle for example, going into techniques to employ at each stage. But let's be real. 
 
 No one is actually working on a product that's simultaneously at all four stages! So unless you're preparing for an exam, what's the point of going deep on all simultaneously?
@@ -104,7 +105,7 @@ I hope this has given you a bit of insight into how a newb PM finds their sea le
 
 ### Best resources so far
 
-Below are some useful resources I've saved for specific aspects of PM.
+Because I know there's a shit ton of info about PM out there - below are some of the more useful resources I've saved for specific aspects of PM.
 
 Product discovery
 
