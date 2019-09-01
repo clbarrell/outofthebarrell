@@ -3,7 +3,7 @@ title: Figuring out product management
 date: 2019-09-01T04:10:10.625Z
 tags:
   - product management
-draft: 'true'
+draft: false
 subtitle: What do I even do as a PM?
 ---
 Even though I'd worked with our product managers (PMs) in the past. The exact activities and day to day were this big black box that I had to figure out. That journey's been a wild ride. But I wouldn't take it back for a second. I'm sure I'll still be figuring out product management (PM) in 5+ years' time. But I'm sharing the start of my PM journey here for posterity's sake - as well as my own. Parsing this experience has been hugely beneficial.
